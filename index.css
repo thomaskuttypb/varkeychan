@@ -1,0 +1,103 @@
+*{
+	background-color: #989898;
+}
+header{
+	height: 100px;
+	padding: 50px 0;
+	
+	
+
+}
+header div.box{
+	display: flex;
+	margin: 0 auto;
+	align-items: center;
+	justify-content: center;
+}
+header img{
+	width: 100px;
+	border-radius: 70px;
+	padding-right: 10px;
+	
+
+}
+header h4{
+	font-size: 14px;
+	font-style: italic;
+	color: #fff;
+	
+}
+section.thought{
+	width: 50%;
+	padding: 20px;
+	margin: 0 auto;
+}
+section.thought p{
+	font-size: 20px;
+	text-align: center;
+	color: #fff;
+}
+section.icons{
+
+}
+section.icons div.insta{
+	display: flex;
+	justify-content: space-between;
+	width: 50%;
+	margin: 0 auto;
+	padding-bottom: 50px;
+
+}
+section.icons div.insta img.logo{
+	width: 150px;
+	height: 100px;
+}
+section.icons div.insta img.arrow{
+	width: 70px;
+	height: 60px;
+}
+section.icons div.insta a img.link{
+	width: 150px;
+	height: 100px;
+}
+
+section.icons div.mail{
+	display: flex;
+	justify-content: space-between;
+	width: 50%;
+	margin: 0 auto;
+	padding-bottom: 50px;
+	
+}
+section.icons div.mail img.logo{
+	width: 150px;
+	height: 100px;
+}
+section.icons div.mail img.arrow{
+	width: 70px;
+	height: 60px;
+}
+section.icons div.mail a img.link{
+	width: 150px;
+	height: 100px;
+}
+
+section.icons div.watsapp{
+	display: flex;
+	justify-content: space-between;
+	width: 50%;
+	margin: 0 auto;
+	padding-bottom: 50px;
+}
+section.icons div.watsapp img.logo{
+	width: 150px;
+	height: 100px;
+}
+section.icons div.watsapp img.arrow{
+	width: 70px;
+	height: 60px;
+}
+section.icons div.watsapp a img.link{
+	width: 150px;
+	height: 100px;
+}
